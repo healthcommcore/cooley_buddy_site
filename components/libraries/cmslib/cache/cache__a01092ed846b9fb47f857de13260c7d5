@@ -1,0 +1,30 @@
+	<div class="jomentry1" id="pc_7" >
+	<a name="comment-7" id="comment-7"></a>
+	
+	<span class="jc_comment_title">...</span><br />
+	
+	<span class="small">_JC_TPL_WRITTEN_BY mh,
+	December 18, 2008	</span><br /> 
+	<div class="comment-text" id="comment-text-container-7">
+		THis window is not what I expected.
+	</div>
+			 	<div style="clear: both;"></div>
+		<ul class="jc_comment_panel">
+			<li class="jc_comment_panel_report">
+				<a href="javascript:void(0);" onclick="jcRpt('7')" title="_JC_TPL_ABUSE_REPORT">
+					<img src="images/blank.gif" alt="_JC_TPL_ABUSE_REPORT" title="_JC_TPL_ABUSE_REPORT" height="14" width="14" border="0" />
+				</a>
+			</li>
+	        <li class="jc_comment_panel_total" id="cvote-7">+0</li>
+			<li class="jc_comment_panel_down">
+				<a href="javascript:void(0);" onclick="jcVt('7', -1)" title="_JC_TPL_DOWN_VOTE">
+					<img src="images/blank.gif" alt="_JC_TPL_DOWN_VOTE" title="_JC_TPL_DOWN_VOTE" height="14" width="14" border="0" />
+				</a>
+			</li>
+			<li class="jc_comment_panel_up">
+				<a href="javascript:void(0);" onclick="jcVt('7', 1)" title="_JC_TPL_UP_VOTE">
+					<img src="images/blank.gif" alt="_JC_TPL_UP_VOTE" title="_JC_TPL_UP_VOTE" height="14" width="14" border="0" />
+				</a>
+			</li>
+	    </ul>
+		</div> 
